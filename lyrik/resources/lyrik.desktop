@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Lyrik
+Comment=Spotify lyrics, track info, and controls overlay
+Exec=lyrik
+Icon=lyrik
+Terminal=false
+Categories=AudioVideo;Audio;Player;
+Keywords=spotify;lyrics;overlay;mpris;
+StartupNotify=false
+X-GNOME-UsesNotifications=false

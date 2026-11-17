@@ -1,0 +1,11 @@
+#!/usr/bin/python3
+import os
+import sys
+
+root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if root not in sys.path:
+    sys.path.insert(0, root)
+
+from lyrik.__main__ import main
+
+raise SystemExit(main())
