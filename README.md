@@ -19,6 +19,7 @@ Lyrik talks to the official Spotify desktop app through [MPRIS](https://wiki.arc
 - Linux with the Spotify desktop client (or another MPRIS player)
 - Python 3.10+ with GObject introspection
 - GTK 4
+- Don't worry about storage, less than 50 KB (0.05 MB)
 
 Debian / Ubuntu:
 
